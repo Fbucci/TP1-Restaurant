@@ -1,0 +1,10 @@
+Normes:
+
+Constantes en MAJUSCULE.
+Variable en minuscule et une majuscule pour le début d'un autre mot. ex: prixHabitation
+Créer divers classes avec des méthodes pertinentes.
+Le code doit être lisible et claire.
+Pas de if Vrai == true
+
+
+Formatage: fichier de formatage Montmorency.
