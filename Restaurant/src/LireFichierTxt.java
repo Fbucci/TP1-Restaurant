@@ -92,7 +92,7 @@ public class LireFichierTxt {
 	public static void calculerPrixFacture(String nom, String prix, String nombre) {
 		
 		
-			System.out.println(nom + " : " + Double.parseDouble(prix) * Integer.parseInt(nombre) );
+			System.out.println(nom + " : " + OutilsAffichage.formaterMonetaire(Double.parseDouble(prix) * Integer.parseInt(nombre), 2 ));
 			
 		
 		
